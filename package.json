@@ -1,0 +1,26 @@
+{
+  "name": "bullmq",
+  "version": "1.0.0",
+  "description": "Queue -> FIFO first in first out\r usecases - Notification systems , automations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjun3037/bullmq.git"
+  },
+  "keywords": [
+    "bullmq",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arjun3037/bullmq/issues"
+  },
+  "homepage": "https://github.com/arjun3037/bullmq#readme",
+  "dependencies": {
+    "bullmq": "^4.9.0"
+  }
+}
